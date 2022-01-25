@@ -14,7 +14,7 @@ ghc Main.hs
 
 ### Run
 
-Run Main.exe file and type the test file name which must be in the same directory as the test.txt file.
+Run Main.exe file and type the test file name which must be in the same directory as the Test-4x4.txt file.
 
 # More about creek puzzles
 
