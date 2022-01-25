@@ -2,7 +2,7 @@
 
 Simple program for study project written in Haskell. Brute force algorithm - generate all unique permutations of true/false boards and than check two conditions. Max size of board is 6x6 (if you want to get result within seconds :)).
 
-# How to run
+# How to start the program
 
 ### Compile
 
@@ -11,6 +11,8 @@ Compile and link to get the output Main.exe file with command:
 ```
 ghc Main.hs
 ```
+
+Works and tested on the GHC v. 9.2.1.
 
 ### Run
 
