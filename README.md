@@ -1,6 +1,6 @@
 # Creek Puzzle Solver
 
-Simple program for study project written in Haskell. Brute force algorithm - generate all unique permutations of true/false boards and than check two conditions.
+Simple program for study project written in Haskell. Brute force algorithm - generate all unique permutations of true/false boards and than check two conditions. Max size of board is 6x6 (if you want to get result within seconds :)).
 
 # How to run
 
